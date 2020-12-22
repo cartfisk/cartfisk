@@ -1,6 +1,6 @@
 ### Hi, I'm cartfisk 👋
 
-🏢 I'm a Senior Engineering Manager at [Mediaocean](https://github.com/voxsupInc), building next-generation marketing tools with JS and Python.
+🏢 I'm a Senior Engineering Manager at [Mediaocean](https://www.mediaocean.com), building next-generation marketing tools with JS and Python.
 
 🎸 I make music as [vlush](https://youwont.bet) and manage a [project recording studio](https://no-shore.com) in Minneapolis, MN.
 
