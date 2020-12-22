@@ -4,7 +4,7 @@
 
 🎸 — I make music as [vlush](https://youwont.bet) and manage a [project recording studio](https://no-shore.com) in Minneapolis, MN.
 
-🖥 — I build and configure hackintosh PCs.
+🖥 — I build and configure hackintosh PCs and home/project servers.
 
 🎨 — I am a draftsman, painter, mixed-media artist, and photographer.
 
