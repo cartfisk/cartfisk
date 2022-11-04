@@ -1,6 +1,6 @@
 ### Hi, I'm cartfisk 👋
 
-🏢 — I'm a Senior Engineering Manager at [Mediaocean](https://www.mediaocean.com), building next-generation marketing tools with JS and Python.
+🏢 — I'm a Senior Software Engineer at [Stem](https://stem.is), building music distribution & payments tools with JS and Python.
 
 📄 — Here's my [professional resume](https://cartfisk.com/assets/resume.pdf) and [personal website](https://cartfisk.com).
 
